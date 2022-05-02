@@ -1,0 +1,110 @@
+  900  git status
+  901  git add -A
+  902  git status
+  903  git commit -m "finalized portfolio analysis file"
+  904  git push
+  905  mkdir images
+  906  git status
+  907  git add Primary/risk_return_analysis.ipynb
+  908  git status
+  909  git commit -m "finalized ipynb file"
+  910  git status
+  911  git add -A
+  912  git status
+  913  git commit -m "updated readme and added images file"
+  914  git push
+  915  git status
+  916  git add -A
+  917  git commit -m "ran ipynb"
+  918  git push
+  919  git status
+  920  git add -A
+  921  git status
+  922  git commit -m "fixed image issue in readme"
+  923  git push
+  924  history 870 > terminal_history.txt
+  925  git status
+  926  git add -A
+  927  git commit -m "added terminal history text file"
+  928  git push
+  929  cd ..
+  930  cd desktop
+  931  cd fintech-workspace
+  932  conda activate dev
+  933  conda install -c pyviz hvplot geoviews
+  934  conda list hvplot
+  935  conda list geoviews
+  936  ls
+  937  cd class_folder
+  938  git pull
+  939  git status
+  940  git add -A
+  941  git status
+  942  git commit -m "saved class work"
+  943  git pull
+  944  git config pull.rebase fales
+  945  git config pull.rebase false
+  946  git pull
+  947  cd financial_planning_with_apis
+  948  git status
+  949  git status
+  950  git status
+  951  git add -A
+  952  git commit -m "updated gitignore and dotenv file"
+  953  git status
+  954  git add -A
+  955  git commit -m "added crypto calcs to ipynb file"
+  956  git status
+  957  git add -A
+  958  git commit -m "saving progress on portfolio analysis"
+  959  git status
+  960  git add -A
+  961  git commit -m "saved progress on ipynb file"
+  962  git status
+  963  git add -A
+  964  git status
+  965  git commit -m "updated README file"
+  966  history > 923 terminal_history.txt
+  967  history 923 > terminal_history.txt
+  968  git status
+  969  git add -A
+  970  git commit -m "added terminal histroy text file"
+  971  git push
+  972  git staus
+  973  git status
+  974  git add -A
+  975  git commit -m "finalized ipynb file"
+  976  git push
+  977  git status
+  978  git add -A
+  979  git commit -m "answered final question"
+  980  git push
+  981  cd class_folder
+  982  git pull
+  983  ls
+  984  cd PropTech_San_Fran
+  985  git status
+  986  git add -A
+  987  git commit -m "completed steps 1-5"
+  988  git status
+  989  git add -A
+  990  git commit -m "edited hvplot histogram"
+  991  git push
+  992  git status
+  993  git add san_francisco_housing.ipynb
+  994  git status
+  995  git commit -m "updated ipynb file with data viz"
+  996  git status
+  997  git add -A
+  998  git commit -m "added images to Image folder for readme file"
+  999  git status
+ 1000  git add Images/clone.png\n        Images/sfintro.png
+ 1001  git add Images/sfintro.png
+ 1002  git status
+ 1003  git commit -m "updated Images folder"
+ 1004  git status
+ 1005  git add -A
+ 1006  git commit -m "updated readme file"
+ 1007  git status
+ 1008  git add -A
+ 1009  git commit -m "answered final questions"
